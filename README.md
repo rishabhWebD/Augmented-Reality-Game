@@ -12,6 +12,6 @@ Developers:-
 1. Rishabh Sharma
 2. Amardeep Jaiswal
 
-Developers Contact:-
-Email:- amardeepjss845@gmail.com
+Developers Contact:-   
+Email:- amardeepjss845@gmail.com    
 Email:- rs182098@gmail.com
