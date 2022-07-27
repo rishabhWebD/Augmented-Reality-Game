@@ -1,5 +1,5 @@
 # Augmented-Reality-Game
-This game is basically based on augumented reality
+This game is basically based on augmented reality
 and it is designed for the preschool kids, To make 
 Them learn in fun and interactive way which 
 Help in there great mental growth. 
